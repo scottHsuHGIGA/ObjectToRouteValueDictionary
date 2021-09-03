@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectToRouteValueDictionary", "ObjectToRouteValueDictionary\ObjectToRouteValueDictionary.csproj", "{E4B90796-A1BC-438F-96A9-FF7CF17320FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{6C1B59AC-403D-4754-A9F8-C2AE832F5B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B90796-A1BC-438F-96A9-FF7CF17320FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B90796-A1BC-438F-96A9-FF7CF17320FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B90796-A1BC-438F-96A9-FF7CF17320FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B90796-A1BC-438F-96A9-FF7CF17320FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1B59AC-403D-4754-A9F8-C2AE832F5B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1B59AC-403D-4754-A9F8-C2AE832F5B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1B59AC-403D-4754-A9F8-C2AE832F5B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1B59AC-403D-4754-A9F8-C2AE832F5B91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94D86D80-4763-4090-A467-19B2338AD534}
+	EndGlobalSection
+EndGlobal

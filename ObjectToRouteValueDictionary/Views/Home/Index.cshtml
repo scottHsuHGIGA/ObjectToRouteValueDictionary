@@ -1,0 +1,15 @@
+﻿@using ObjectToRouteValueDictionary.Controllers;
+@{
+    var title = (string)ViewData["ActionName"];
+    var item = (HomeController.TestModel)ViewData["TestModel"];
+}
+<a href="@Url.Action("Test","Home",Library.Helper.UrlHelper.ObjectToRouteValueDictionary<HomeController.TestModel>(item))">TEST ACTION</a>
+<h1>@title</h1>
+<div>
+    A:@item.Astring
+    <br />
+    B:@item.Bstring
+    <br />
+    C:@item.Cstring
+
+</div>

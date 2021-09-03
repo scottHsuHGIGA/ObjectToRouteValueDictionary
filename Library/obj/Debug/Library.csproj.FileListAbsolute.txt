@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\ObjectToRouteValueDictionary\Library\bin\Debug\Library.dll
+C:\Users\user\Desktop\ObjectToRouteValueDictionary\Library\bin\Debug\Library.pdb
+C:\Users\user\Desktop\ObjectToRouteValueDictionary\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ObjectToRouteValueDictionary\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ObjectToRouteValueDictionary\Library\obj\Debug\Library.dll
+C:\Users\user\Desktop\ObjectToRouteValueDictionary\Library\obj\Debug\Library.pdb
